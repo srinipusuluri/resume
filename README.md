@@ -39,30 +39,87 @@ Over 10+ years of experience in enterprise CRM, integration, automation, and AI/
 
 ## Featured Projects & GitHub Repositories
 
-### [aiagents](https://github.com/srinipusuluri/aiagents)
+### 🤖 Core AI & Agent Development
+
+#### [aiagents](https://github.com/srinipusuluri/aiagents)
 **Library / Sample Set of AI Agent Prototypes**
 - Designed modular agent templates (planner, executor, tool invoker)
 - Demonstrated use cases: data lookup, rule-based tasks, chained agents in CRM workflows
 - **Technologies**: Python, agent frameworks, prompt chaining, API integration
+- **Impact**: Foundation framework for autonomous agent development
 
-### [pythonllm](https://github.com/srinipusuluri/pythonllm)
+#### [Ai_Agents_Road_Map](https://github.com/srinipusuluri/Ai_Agents_Road_Map)
+**Comprehensive Guide to AI Agent Development**
+- Road map and best practices for building intelligent agents
+- Architecture patterns and implementation strategies
+
+#### [airline_reservation_system_mcp](https://github.com/srinipusuluri/airline_reservation_system_mcp)
+**MCP Server for Airline Reservation System**
+- Model Context Protocol implementation for travel industry use case
+- Integration patterns for external API services
+
+### 🧠 LLM & Machine Learning
+
+#### [pythonllm](https://github.com/srinipusuluri/pythonllm)
 **Utilities and Demonstrations Around LLM Interactions in Python**
 - Wrapper modules, prompt templates, batching, caching layers, response handling
 - **Technologies**: Python, OpenAI / HuggingFace client, prompt engineering patterns
 
-### [LLM-HANDSON1/2](https://github.com/srinipusuluri/LLM-HANDSON1)
+#### [LLM-HANDSON1](https://github.com/srinipusuluri/LLM-HANDSON1), [LLM-HANDSON12](https://github.com/srinipusuluri/LLM-HANDSON12), [LLM-HANDSON3](https://github.com/srinipusuluri/LLM-HANDSON3)
 **Hands-on LLM Tasks and Experiments**
 - Jupyter notebooks demonstrating prompt tuning, chaining, embeddings, simple agents
 - Teaching artifacts to show process and technical depth
 
-### [AI-ML-Algorithms](https://github.com/srinipusuluri/AI-ML-Algorithms)
+#### [AI-ML-Algorithms](https://github.com/srinipusuluri/AI-ML-Algorithms)
 **Classic ML/AI Algorithms Collection**
 - Core fundamentals: clustering, classification, regressors, neural nets
 - Prototyping and baseline models in agent pipelines
+- **Technologies**: Python, NumPy, scikit-learn
 
-### [MY-PUBLICATIONS](https://github.com/srinipusuluri/MY-PUBLICATIONS)
+### ☁️ Learning & Training Platforms
+
+#### [ai-for-all](https://github.com/srinipusuluri/ai-for-all), [aiforall](https://github.com/srinipusuluri/aiforall)
+**AI Learning Platform Projects**
+- Educational content and training materials for AI/ML
+- Interactive learning modules and assessments
+
+#### [aiforall-qa-learning-portal](https://github.com/srinipusuluri/aiforall-qa-learning-portal)
+**QA Learning Portal for AI**
+- Quality assurance framework for AI training and testing
+- Automated testing pipelines for ML models
+
+### 📊 CRM & Industry Applications
+
+#### [crm_redact_pii_about](https://github.com/srinipusuluri/crm_redact_pii_about)
+**CRM PII Redaction System**
+- Privacy-preserving data processing for CRM systems
+- Compliance-focused data anonymization tools
+
+#### [atforall-agenticcrmv.9](https://github.com/srinipusuluri/atforall-agenticcrmv.9), [atforall-agenticcrmv1](https://github.com/srinipusuluri/atforall-agenticcrmv1)
+**Agentic CRM System Versions**
+- Evolution of intelligent CRM agents with multi-modal capabilities
+- Vision and text processing for customer data
+
+### 🎓 Research & Publications
+
+#### [MY-PUBLICATIONS](https://github.com/srinipusuluri/MY-PUBLICATIONS)
 **Repository of Papers, Articles, Writeups**
 - Thought leadership, technical writing, whitepapers on CRM + AI
+- Research contributions to the field
+
+### 🏫 Training & Education
+
+#### [bhpen-NIIT-Tredence-LLM](https://github.com/srinipusuluri/bhpen-NIIT-Tredence-LLM)
+**Industry-Specific LLM Training**
+- Domain-adaptation for manufacturing and industrial use cases
+
+#### [bhpen-SP-DXC-genAI-LLM](https://github.com/srinipusuluri/bhpen-SP-DXC-genAI-LLM)
+**Generative AI for Enterprise Solutions**
+- Large-scale LLM deployment and optimization for business applications
+
+#### [bhupen-SL-GenAI-course-4](https://github.com/srinipusuluri/bhupen-SL-GenAI-course-4), [bhupen-SL-GenAI-course-4a](https://github.com/srinipusuluri/bhupen-SL-GenAI-course-4a)
+**Advanced Generative AI Course Materials**
+- In-depth learning resources for cutting-edge AI technologies
 
 ## Vision & Direction
 
@@ -77,8 +134,8 @@ My vision is to build the next-gen AI-native CRM platform where CRM systems are 
 
 ## Contact & Connect
 - **GitHub**: [srinipusuluri](https://github.com/srinipusuluri)
-- **LinkedIn**: [Update with actual LinkedIn URL]
-- **Email**: [Update with actual email address]
+- **LinkedIn**: [Srinivasa (Srini) Pusuluri](https://www.linkedin.com/in/pusulurisrinivasa/)
+- **Email**: [srinipusuluri@outlook.com](mailto:srinipusuluri@outlook.com)
 
 ---
 
