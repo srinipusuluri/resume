@@ -49,8 +49,9 @@ I have virtual university:
 
 link: https://srinipusuluri.github.io/ai-for-all-global-university/
 
-## University Libarry of 100s of books ##
-<img width="379" height="271" alt="image" src="https://github.com/user-attachments/assets/3fe729d1-c290-4f85-a56c-6066081a2ea0" />
+## I have built University Library of 100s of books ##
+
+<img width="1089" height="492" alt="image" src="https://github.com/user-attachments/assets/ccb428d7-308e-4a77-a42c-3bcec241971e" />
 
 Link: https://srinipusuluri.github.io/ai-for-all/
 
