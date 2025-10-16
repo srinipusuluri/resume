@@ -1,5 +1,8 @@
 # Srinivasa "Srini" Pusuluri - AgenticRM Architect Portfolio
 
+<img width="225" height="211" alt="image" src="https://github.com/user-attachments/assets/07d1a4bf-6c2b-4d19-9cc3-740776abfa0d" />
+
+
 ## Elevator Pitch
 CRM + Agentic AI expert with deep enterprise architecture foundations. I build intelligent CRM agents, fine-tuned LLMs, vision-enabled assistants, RAG architectures, and hybrid CRM-AI systems that automate complex workflows across sales, service, marketing, and operations.
 
@@ -38,6 +41,19 @@ Over 10+ years of experience in enterprise CRM, integration, automation, and AI/
 - CI/CD, containerization, model serving, scaling, monitoring
 
 ## Featured Projects & GitHub Repositories
+
+I have virtual university:
+<img width="387" height="542" alt="image" src="https://github.com/user-attachments/assets/fa761965-6940-4cd5-b67b-20acf1520bfd" />
+
+<img width="378" height="313" alt="image" src="https://github.com/user-attachments/assets/0b5d2b59-1a6c-4270-b39f-2f6afdc7b124" />
+
+link: https://srinipusuluri.github.io/ai-for-all-global-university/
+
+## University Libarry of 100s of books ##
+<img width="379" height="271" alt="image" src="https://github.com/user-attachments/assets/3fe729d1-c290-4f85-a56c-6066081a2ea0" />
+
+Link: https://srinipusuluri.github.io/ai-for-all/
+
 
 ### 🤖 Core AI & Agent Development
 
