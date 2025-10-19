@@ -3,6 +3,38 @@
 <img width="225" height="211" alt="image" src="https://github.com/user-attachments/assets/07d1a4bf-6c2b-4d19-9cc3-740776abfa0d" />
 
 
+
+SRINIVASA (SRINI) PUSULURI
+Senior AI Architect | CRM AI Transformation Leader | Agentic AI Innovator
+📍 [Frisco, TX USA] | 🌐 https://www.linkedin.com/in/pusulurisrinivasa/ | ✉️ psrao.hclt@gmail.com | Github: https://github.com/srinipusuluri/resume
+
+## PROFILE SUMMARY
+Innovative and results-driven Senior AI Architect with 15+ years of experience leading CRM and AI transformations across enterprise ecosystems. Expert in LLM evaluation, data annotation, fine-tuning, and expert prompting, with a primary focus on CRM and fintech domains and strong cross-domain adaptability. Proven ability to design and deploy domain-specific AI/ML workflows, integrating agentic AI and governance frameworks for scalable, production-grade solutions.
+
+## CORE EXPERTISE
+- AI / ML Systems Architecture: End-to-end model lifecycle, scalable deployment, and optimization.
+- Agentic AI Systems: Building autonomous reasoning agents using Agentforce, Vibe Code, Cursor, and Cline.
+- CRM & Fintech AI: Salesforce AI transformations across Sales & Service Cloud with measurable impact.
+- AI Workflow Builders: Domain and task-oriented pipelines improving productivity and accuracy.
+- Leadership & Collaboration: Bridging executives and engineering to align AI strategy with business outcomes.
+- Certifications: Multiple Salesforce, AI, and Enterprise Architecture certifications.
+
+## KEY HIGHLIGHTS
+- 15+ years of CRM and AI architecture experience, combining technical depth with enterprise-level leadership.
+- Led AI transformation programs within elite innovation teams.
+- Hands-on with LLMs, RAG, and agentic architectures for real-world enterprise integration.
+- Expertise in AI governance, compliance, and responsible deployment frameworks.
+- Recognized for bridging business needs and deep AI capability through practical, scalable design.
+- 
+##TOOLS & TECHNOLOGIES
+Languages & Frameworks: Python, PyTorch, TensorFlow, LangChain, OpenAI, Salesforce Apex, SOQL
+Platforms: Agentforce, Vibe Code, Cursor, Cline, Databricks, Google Cloud, AWS
+Domains: CRM, Fintech, Intelligent Automation, Agentic AI, Customer Experience
+
+## VISION
+Advancing enterprise AI from predictive analytics to agentic, reasoning-driven intelligence. Passionate about building scalable, ethical AI systems that blend automation, data, and human-centered design to power the next generation of intelligent enterprises.
+
+
 ## Elevator Pitch
 CRM + Agentic AI expert with deep enterprise architecture foundations. I build intelligent CRM agents, fine-tuned LLMs, vision-enabled assistants, RAG architectures, and hybrid CRM-AI systems that automate complex workflows across sales, service, marketing, and operations.
 
@@ -157,11 +189,24 @@ My vision is to build the next-gen AI-native CRM platform where CRM systems are 
 ---
 
 ## Portfolio Website
-This repository contains the code for my personal portfolio website. The site is built with:
 
-- **HTML5** - Semantic markup structure
-- **CSS3** - Modern responsive styling with frameworks (Grid, Flexbox)
-- **JavaScript** - Smooth scrolling, animations, and interactivity
+# I have built AI university:
+https://srinipusuluri.github.io/ai-for-all/
+<img width="599" height="432" alt="image" src="https://github.com/user-attachments/assets/09555124-adbd-4d86-803e-efbe9ab50ceb" />
+
+# I have built education portal:
+https://srinipusuluri.github.io/ai-for-all-global-university/
+<img width="552" height="525" alt="image" src="https://github.com/user-attachments/assets/5aa36652-b7b7-4e27-a3c0-97e0616b3b01" />
+
+# I have built lots of vision use acses to use in some of CRM models (like Usrer facemasking, PII, statment anslyzer)
+
+https://github.com/srinipusuluri/yolo_vision_usecases
+
+# I have lots of CRM agents built
+Including CRM Voice chatbot with multi modal capabilitis
+https://github.com/srinipusuluri/universal_ai_chatbot
+
+
 
 ### Features
 - Fully responsive design (mobile-first approach)
